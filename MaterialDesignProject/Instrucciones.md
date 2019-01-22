@@ -42,7 +42,7 @@ se deberá instalar por medio del siguiente comando
 
 Agrega el siguiente HTML
 
-``
+```
 <!DOCTYPE html>
 <html>
   <head>
